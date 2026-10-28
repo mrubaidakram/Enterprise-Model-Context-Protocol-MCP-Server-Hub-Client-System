@@ -1,0 +1,2 @@
+"""Enterprise MCP hub application."""
+
